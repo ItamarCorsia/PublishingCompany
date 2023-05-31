@@ -1,0 +1,1 @@
+call GetAvailablePhoto ('2023-04-24','2023-04-25');
